@@ -7,10 +7,10 @@
 
 
 
-- 👋 Hi, I’m @nibedann
-- 👀 I’m interested in Esports, Coding and a lot of more things...
-- 🌱 I’m currently learning new coding languages...
-- 👍🏼 I’m looking to collaborate on projects which will be interesting ...
+- 🎮 I'm a passionate programmer and avid gamer with a keen interest in Esports.
+- 🗿 I enjoy exploring new technologies and learning programming languages to expand my skills.
+- ↗️ Currently, I'm focusing on learning and improving my skills in web development and software engineering.
+- 🧑‍💻 I'm always looking for exciting new projects to collaborate on, so feel free to reach out if you have any ideas!
 - 📫 How to reach me MY email is - Banerjeenibedan@gmail.com You can mail me :)
 
 
