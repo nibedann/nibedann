@@ -1,3 +1,12 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+<h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
+<h3 align="center">A multidisciplinary Full-Stack developer from Kolkata</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+
+
+
 - 👋 Hi, I’m @nibedann
 - 👀 I’m interested in Esports, Coding and a lot of more things...
 - 🌱 I’m currently learning new coding languages...
