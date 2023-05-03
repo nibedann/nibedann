@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
-<h3 align="center">A multidisciplinary Full-Stack developer from Kolkata</h3>
+<h3 align="center">Bridging the Gap between Creativity and Functionality as a Full-Stack Developer</h3>
 
 
 ###
