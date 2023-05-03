@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="MasterHead">
-</div>
+[![MasterHead](https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif)]()
 
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
