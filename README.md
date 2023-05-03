@@ -5,7 +5,7 @@
 - 📫 How to reach me MY email is - Banerjeenibedan@gmail.com You can mail me :)
 
 
-# Connect with me  
+# 📲 Connect with me  
 <div align="center">
 <a href="https://github.com/nibedann" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
