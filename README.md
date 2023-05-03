@@ -1,4 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif)]()
+<div align="center">
+  <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="MasterHead">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from Kolkata</h3>
