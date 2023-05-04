@@ -14,6 +14,8 @@
 - 📫 How to reach me MY email is - Banerjeenibedan@gmail.com You can mail me :)
 ###
 
+
+<a href="https://app.daily.dev/nibedann"><img src="https://api.daily.dev/devcards/e3c91fed1a254ed984404bd6b90c8405.png?r=nom" width="400" alt="NIBEDAN BANERJEE's Dev Card"/></a>
 # 📲 Connect with me  
 <div align="center">
 <a href="https://github.com/nibedann" target="_blank">
