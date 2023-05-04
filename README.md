@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/nibedann"> <img width="256" align="right" src="" /> </a> </div>
+<a href="https://app.daily.dev/nibedann"> <img width="256" align="right" src="https://github.com/nibedann/nibedann/blob/main/devcard.svg" /> </a> </div>
 
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
