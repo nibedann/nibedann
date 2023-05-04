@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif)]()
+<a href="https://app.daily.dev/nibedann"><img src="https://api.daily.dev/devcards/e3c91fed1a254ed984404bd6b90c8405.png?r=nom" width="400" alt="NIBEDAN BANERJEE's Dev Card"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
