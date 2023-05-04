@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/nibedann"><img src="https://api.daily.dev/devcards/e3c91fed1a254ed984404bd6b90c8405.png?r=nom" width="230"  align="right" alt="NIBEDAN BANERJEE's Dev Card"/></a>
+<a href="https://app.daily.dev/nibedann"><img src="https://api.daily.dev/devcards/e3c91fed1a254ed984404bd6b90c8405.png?r=nom" width="256"  align="right" alt="NIBEDAN BANERJEE's Dev Card"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
