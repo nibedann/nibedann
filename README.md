@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nibedann/nibedann/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
