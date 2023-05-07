@@ -34,7 +34,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nibedann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nibedann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-<div align="center"> ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nibedann&theme=github_dark) 
+<div align="center"> 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nibedann&theme=github_dark) 
 </div>
 
 
