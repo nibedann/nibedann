@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/nibedann"> <img width="256" align="right" src="https://api.daily.dev/devcards/${{ secrets.DEVCARD_ID }}.png?r=jay" /> </a> </div>
 
 
 <h1 align="center">Hi 👋, I'm Nibedan Banerjee</h1>
