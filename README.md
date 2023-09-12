@@ -27,8 +27,7 @@
 <img src= https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white  alt=Medium style="margin-bottom: 5px;" />
 </div> 
 
-# 💻 Tech Stack:
-<details>
+<details open>
     <summary><h1>🛠️ Development Stack</h1></summary>
     <table>
       <tr>
