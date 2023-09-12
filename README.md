@@ -29,6 +29,7 @@
 
 <details open>
     <summary><h1>🛠️ Development Stack</h1></summary>
+    <div align="center">
     <table>
       <tr>
         <th align="right">Category</th>
