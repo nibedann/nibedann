@@ -28,7 +28,7 @@
 </div> 
 
 # 💻 Tech Stack:
-<details open>
+<details>
     <summary><h1>🛠️ Development Stack</h1></summary>
     <table>
       <tr>
